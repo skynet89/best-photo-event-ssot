@@ -1,0 +1,19 @@
+# Environment
+.env
+*.env
+
+# Runtime data
+/data/
+/config/license.json
+/config/keys/
+**/edge_ed25519.key
+**/edge_ed25519.pub
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
